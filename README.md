@@ -27,17 +27,6 @@ similarity is computed on-demand using sparse matrix multiplication,
 reducing memory usage significantly.
 
 
-## 📊 Evaluation Strategy
-
-Since this dataset does not contain user interaction data,
-evaluation focuses on:
-
-- Qualitative inspection of recommendation quality
-- Genre alignment consistency
-- Diversity across recommended items
-
-In a production environment with user interaction data,
-metrics such as Precision@K, Recall@K, and NDCG would be used.
 
 ## ⚠️ Limitations
 
