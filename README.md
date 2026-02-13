@@ -57,3 +57,8 @@ Response
 - Designed hybrid ranking strategy combining similarity and ratings.
 - Integrated third-party API for real-time metadata enrichment.
 - Deployed full-stack ML application to cloud.
+
+
+Frontend = ![Streamlit](https://movierecomendationsystem-mdpfqjjuktqtahbh9souhe.streamlit.app/)
+Backend hosted on ![Render](https://movie-recomendation-system-97yj.onrender.com)
+
