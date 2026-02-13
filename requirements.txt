@@ -9,5 +9,6 @@ fastapi
 uvicorn
 httpx
 scipy
-streamlit
+streamlit==1.54.0
+altair==4.2.2
 dotenv
